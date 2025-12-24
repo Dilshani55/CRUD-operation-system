@@ -1,0 +1,11 @@
+# ignore all node_modules folders
+node_modules/
+
+# ignore env files
+.env
+backend/.env
+client/.env
+
+# build outputs (optional)
+build/
+dist/
